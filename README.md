@@ -27,6 +27,7 @@ This is a bingo "game" to be used during daily standup meetings. Just listen to 
 * you can replace the *logo.gif* file to change the graphic at the middle of the board
   * if file is missing entirely, blank space appears in the middle (app still works)
   * file *has* to be .gif
+* files will be detected when they are in the same folder as the .py (... or .exe)
   
 ## Resolution
 
