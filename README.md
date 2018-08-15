@@ -30,7 +30,7 @@ This is a bingo "game" to be used during daily standup meetings. Just listen to 
   
 ## Resolution
 
-The application was developed and tested entirely on the 1920 x 1080 resolutions. On other resolutions, all bets are off. It'll probably be fine though. :laughing:
+The application was developed and tested entirely on the 1920 x 1080 resolution. On other resolutions, all bets are off. It'll probably be fine though. :laughing:
   
 ## Compiling to .exe
 
