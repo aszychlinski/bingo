@@ -40,7 +40,7 @@ The application was developed and tested entirely on the 1920 x 1080 resolutions
 
 ## Feedback?
 
-If you have any comments feedback or bug reports, feel free to share them.
+If you have any comments, feedback or bug reports, feel free to share them.
 As of right now I consider this project complete, but you never know.
 That being said...
 
