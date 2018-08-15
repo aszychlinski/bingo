@@ -1,0 +1,24 @@
+production bugs
+data loss
+build failures
+poor requirements
+"works for me"
+bureaucratic red tape
+meddling business people
+deadlines
+release scope change
+fire drill
+broken coffee machine
+pointless meeting today
+random bug
+logless crash
+conference software muted someone
+overtime required
+ivory tower test management
+unrealistic expectations
+waiting on service desk
+waiting on other company
+bug which was reopened more than once
+"that's a feature"
+holiday season
+someone quit
