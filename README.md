@@ -43,7 +43,7 @@ The application was developed and tested entirely on the 1920 x 1080 resolution.
 
 What I would find particularly valuable is feedback about the quality of *comments* which I have included in my code.
 I am still really new to this so I don't have a good feel for it. Are there too many code comments? Too few? 
-Are they too detailed / not detailed enough? I did have a particular audience in mind when writing those comments - the kind of person who knows programming but has never seen Python before. That is why I do things like explaining what `random.shuffle` is.
+Are they too detailed / not detailed enough? I did have a particular audience in mind when writing those comments - the kind of person who knows programming but has never seen Python before. That is why I do things like explain what `random.shuffle` is.
 
 If you have any other feedback, comments or bug reports, feel free to share them.
 As of right now I consider this project complete, but you never know.
@@ -53,4 +53,3 @@ That being said...
 
 1. Read the license (standard MIT).
 2. The sample texts provided in the *buttons.txt* file are not meant to describe or resemble any particular project or persons. Any perceived similarity is unintentional.
-   * they *are* meant to resemble the grueling process of software creation in general :grinning:
