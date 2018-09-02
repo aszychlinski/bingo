@@ -6,7 +6,8 @@ from time import time  # function returns time in seconds since 1970;
 from sys import platform  # function that determines the OS application is being run on
 from random import shuffle  # function that randomly changes the order of elements in a sequence
 from os.path import exists  # function that checks if a file exists in a particular locale
-import winsound  # module for playing .wav sound files on Windows systems
+if platform == 'win32':
+    import winsound  # module for playing .wav sound files on Windows systems
 # all of the above modules come with a standard installation of Python
 
 
